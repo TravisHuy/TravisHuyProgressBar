@@ -12,14 +12,23 @@ import android.view.View;
 
 import androidx.annotation.Nullable;
 
+import kotlin.jvm.JvmField;
+import kotlin.jvm.JvmOverloads;
+
 
 public class TravisHuyProgressBar extends View {
 
+    @JvmField
     public int mProgress =0;
+    @JvmField
     public int mMax=100;
+    @JvmField
     public int mStartColor;
+    @JvmField
     public int mEndColor;
+    @JvmField
     public int mBackgroundColor;
+    @JvmField
     public float mCornerRadius;
     private Paint mPaint;
     private RectF mRectF;
@@ -36,6 +45,7 @@ public class TravisHuyProgressBar extends View {
         init(attrs);
     }
 
+    @JvmOverloads
     public TravisHuyProgressBar(Context context, @Nullable AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
         init(attrs);
