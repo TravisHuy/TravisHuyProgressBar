@@ -1,6 +1,8 @@
 <!--lint disable-->
 <a href="https://github.com/TravisHuy/TravisHuyProgressBar">  
-<img src="https://github.com/user-attachments/assets/3042eabb-c1b8-4fac-924a-582a96f30dc5">  
+<img src="https://github.com/user-attachments/assets/e956d2d2-7a01-4d02-9480-6ffff4e39b82">  
+</br>	
+<img src="https://github.com/user-attachments/assets/a3e59faf-9c4e-40be-82e4-4e198ad1f81a">  
 </a>  
 <h1 align="center">Android ProgressBar</h1>  
 <p align="center">Just add the progress you want to view. </p>  
